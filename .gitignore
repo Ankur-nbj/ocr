@@ -1,0 +1,16 @@
+# === Backend (Java/Maven) ===
+/target
+*.log
+*.class
+*.jar
+
+# === Frontend (React) ===
+node_modules/
+build/
+.env
+
+# === Common ===
+.DS_Store
+*.iml
+.idea/
+.vscode/
