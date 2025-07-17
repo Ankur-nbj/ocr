@@ -1,6 +1,6 @@
 # === Backend (Java/Maven) ===
 /target
-*.log
+*.loggit
 *.class
 *.jar
 
